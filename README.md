@@ -1,4 +1,8 @@
-### Hi there 👋
+### honkyrot
+Some small SE asian boy who likes to code.
+I do like gaming.
+I know so far Lua and Python, but I do wish to learn more languages later on.
+
 
 <!--
 **honkyrot/honkyrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
