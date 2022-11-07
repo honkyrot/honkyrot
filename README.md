@@ -1,6 +1,6 @@
 ## honkyrot
 Some small SE asian boy who likes to code.  
-I do like gaming.  
+I do like gaming; from competitive to anime.  
 I know so far Lua and Python, but I do wish to learn more languages later on.  
 
 
