@@ -11,6 +11,8 @@ Seems easier to learn new syntax the more experience you have.
 
 So, a little about me. The country I'm from is Myanmar or Burma. But left for the United States early with my parents. Currently in Indiana and I like it here. Still in high school doing my final year. Hoping for an internship or something?
 
+I am still a student thats learning new things every day.
+
 
 ## stuff I do
 I do projects in Python, JavaScript, Lua, and C#.
