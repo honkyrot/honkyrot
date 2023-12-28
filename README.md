@@ -9,7 +9,7 @@ I know Lua, Python, JavaScript, and some C# so far. But I do wish to learn more 
 I also wish to develop some apps for Android.
 Seems easier to learn new syntax the more experience you have.
 
-So, a little about me. The country I'm from is Myanmar or Burma. But left for the United States early with my parents. I am currently in Indiana and I like it here. Still in high school doing my final year. Hoping for an internship or something?
+So, a little about me. The country I'm from is Myanmar or Burma. I am currently in Indiana and I like it here. Still in high school doing my final year. Hoping for an internship or something?
 
 I am still a student who's learning new things every day.
 
