@@ -4,13 +4,9 @@ I do like gaming; from competitive to anime.
 yeah, I'm addicted to gacha games
 
 ## about me
-I want to do more hobbies like music, but that can wait.
 I know Lua, Python, JavaScript, and some C# so far. But I do wish to learn more languages later on.
 I also wish to develop some apps for Android.
 Seems easier to learn new syntax the more experience you have.
-
-So, a little about me. The country I'm from is Myanmar or Burma. I am currently in Indiana and I like it here. Still in high school doing my final year. Hoping for an internship or something?
-
 I am still a student who's learning new things every day.
 
 
