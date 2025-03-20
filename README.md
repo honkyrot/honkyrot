@@ -16,9 +16,6 @@ Essentially: applications, web-based programs, and games.
 
 I am also learning Unity too on top of that so that's cool.
 
-### active home servers
-shitbox1 - 16 GB RAM, AMD Ryzen 5 3500U
-
 ```diff
 +hello world!
 ```
