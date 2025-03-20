@@ -11,10 +11,8 @@ I am still a student who's learning new things every day.
 
 
 ## stuff I do
-I do projects in Python, JavaScript, Lua, and C#, and maybe a little in Roblox Studio if I feel like it.
+I do projects in Python, JavaScript, Lua, and C#, and maybe a little in Roblox Studio or Unity if I feel like it.
 Essentially: applications, web-based programs, and games.
-
-I am also learning Unity too on top of that so that's cool.
 
 ```diff
 +hello world!
